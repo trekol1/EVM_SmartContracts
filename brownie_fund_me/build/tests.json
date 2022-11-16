@@ -1,0 +1,17 @@
+{
+  "contracts": {
+    "FundMe": "4d88a5233fe6633ec92df4eb1f9bc75b070b8744",
+    "MockV3Aggregator": "9e734e161b5cafcca52a917f10266f5a8bc05b28",
+    "smartcontractkit/chainlink-brownie-contracts@1.1.1/SafeMathChainlink": "3b4158955f564edb18bd7a8ffdb49859c904f0b7"
+  },
+  "tests": {
+    "tests/test_fund_me.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": ".s",
+      "sha1": "b5f25d07e050c0f28710a1e7eddf77c3ce4ba8cf",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
